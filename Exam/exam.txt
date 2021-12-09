@@ -1,0 +1,2 @@
+Hello this is for CDRPC EXAM 
+I have used Python for 1st question and for 2nd I have use SQL 
